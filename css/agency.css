@@ -142,7 +142,7 @@ header.masthead {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    margin-top: 25px;
+    margin-top: 100px;
     height: 800px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 40px;
