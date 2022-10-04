@@ -123,6 +123,10 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: contain; }
+  header.masthead .container{
+	  margin-top:40px;
+}
+
   header.masthead .intro-text {
     padding-top: 100px;
     padding-bottom: 100px; }
@@ -142,7 +146,7 @@ header.masthead {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    margin-top: 100px;
+    
     height: 800px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 40px;
