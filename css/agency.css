@@ -118,7 +118,7 @@ header.masthead {
   background-image: url("../img/snohomoz.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+ 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -142,8 +142,8 @@ header.masthead {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 175px;
-    padding-bottom: 200px; }
+    padding-top: 300px;
+    padding-bottom: 500px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 40px;
       font-style: italic;
